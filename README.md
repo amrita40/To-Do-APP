@@ -77,22 +77,22 @@ Add. Whitespace-only text is ignored.
 **The task appears in the list**, with a live count of how many are still
 remaining.
 
-![First task added, 1 of 1 remaining](./screenshots/02-first-task-added.png)
+![First task added, 1 of 1 remaining](https://github.com/amrita40/To-Do-APP/blob/main/First%20task%20added)
 
 **Add as many tasks as you need.** Each one gets its own checkbox, plus
 Edit and Delete buttons.
 
-![Three tasks in the list, none completed](./screenshots/03-multiple-tasks.png)
+![Three tasks in the list, none completed](https://github.com/amrita40/To-Do-APP/blob/main/3%20Taskes%20added)
 
 **Check a task off** to mark it complete — it gets struck through and the
 remaining count updates.
 
-![One of three tasks marked complete](./screenshots/04-task-completed.png)
+![One of three tasks marked complete](https://github.com/amrita40/To-Do-APP/blob/main/Marked%20as%20Completed)
 
 **Delete a task** you no longer need. The list — and the count — update
 immediately.
 
-![Two tasks remaining after one was deleted](./screenshots/05-task-deleted.png)
+![Two tasks remaining after one was deleted](https://github.com/amrita40/To-Do-APP/blob/main/1%20task%20deleted%20and%202%20remaining)
 
 ## How persistence works
 
