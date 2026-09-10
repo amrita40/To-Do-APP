@@ -72,7 +72,7 @@ npm run preview
 **Start with an empty list.** Type into the input and press Enter or click
 Add. Whitespace-only text is ignored.
 
-![Empty list with a task being typed in](./screenshots/01-empty-list.png)
+![Empty list with a task being typed in](https://github.com/amrita40/To-Do-APP/blob/main/Empty%20image.png)
 
 **The task appears in the list**, with a live count of how many are still
 remaining.
