@@ -4,7 +4,7 @@ A small, focused to-do list web application. Add tasks, edit them, mark them
 complete, delete them, and everything is saved automatically so your list is
 still there the next time you open the page.
 
-![Tasks app with three tasks, one marked complete](./screenshots/04-task-completed.png)
+![Tasks app with three tasks, one marked complete](https://github.com/amrita40/To-Do-APP/blob/main/3%20Taskes%20added)
 
 ## Features
 
